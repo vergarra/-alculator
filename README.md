@@ -18,3 +18,4 @@ This is a basic calculator web application built using HTML, CSS, and JavaScript
 *   CSS: For styling the calculator's appearance.
 *   JavaScript: For handling the calculator's logic and functionality.
 
+## ![Calculator](https://github.com/vergarra/Calculator/blob/main/photopr.png)
